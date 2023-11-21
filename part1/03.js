@@ -3,3 +3,6 @@
 
 var arr = [100, 200, 300];
 console.log(typeof arr);
+
+// 원시타입 - number, string, boolean, undefined, null
+// 참조타입 - object
